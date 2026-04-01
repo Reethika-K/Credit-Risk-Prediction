@@ -6,20 +6,35 @@ The solution leverages advanced feature engineering across multiple relational t
 Source: Kaggle - https://www.kaggle.com/competitions/home-credit-default-risk/data
 ## Project Structure
 Home-Credit/
+<br>
 ├── dataset/
+<br>
 │   └── (datasets from link above)
+<br>
 │
+<br>
 ├── models/
+<br>
 │   ├── bureau_preprocessing_final.ipynb
+<br>
 │   ├── pos_inst_cc_preprocessing_final.ipynb
+<br>
 │   ├── prev_appl_preprocessing_final.ipynb
+<br>
 │   └── Model_training.ipynb
+<br>
 │
+<br>
 ├── processed_data/
+<br>
 │   ├── bureau_final.csv 
+<br>
 │   ├── pos_inst_cc_final.csv
+<br>
 │   └── prev_final.csv
+<br>
 │
+<br>
 └── README.md
 - bureau_preprocessing_final.ipynb - Preprocessing of bureau_balance.csv & bureau.csv dataset
 - pos_inst_cc_preprocessing_final.ipynb - Preprocessing of POS_CASH_balance.csv, installments_payments.csv & credit_card_balance.csv
