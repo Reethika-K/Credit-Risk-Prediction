@@ -36,13 +36,14 @@ Home-Credit/
 │
 <br>
 └── README.md
-- bureau_preprocessing_final.ipynb - Preprocessing of bureau_balance.csv & bureau.csv dataset
-- pos_inst_cc_preprocessing_final.ipynb - Preprocessing of POS_CASH_balance.csv, installments_payments.csv & credit_card_balance.csv
-- prev_appl_preprocessing_final.ipynb - Preprocessing of previous_application.csv
-- Model_training.ipynb - Preprocessing of application_test/test.csv & Model training
-- bureau_final.csv - Output of bureau_preprocessing_final.ipynb 
-- pos_inst_cc_final.csv - Output of pos_inst_cc_preprocessing_final.ipynb
-- prev_final.csv - Output of prev_appl_preprocessing_final.ipynb
+- **bureau_preprocessing_final.ipynb** - Preprocessing of bureau_balance.csv & bureau.csv dataset
+- **pos_inst_cc_preprocessing_final.ipynb** - Preprocessing of POS_CASH_balance.csv, installments_payments.csv & credit_card_balance.csv
+- **prev_appl_preprocessing_final.ipynb** - Preprocessing of previous_application.csv
+- **Model_training.ipynb** - Preprocessing of application_test/test.csv & Model training
+- **bureau_final.csv** - Output of bureau_preprocessing_final.ipynb 
+- **pos_inst_cc_final.csv** - Output of pos_inst_cc_preprocessing_final.ipynb
+- **prev_final.csv** - Output of prev_appl_preprocessing_final.ipynb
+<br>
 **Note:** Note: Due to file size limitations, this repository includes only the model-related files. The original project contained additional raw data and intermediate processing files which are not uploaded.
 ## Data Preprocessing 
 - Replaced anomalous values (e.g., DAYS_EMPLOYED = 365243)
