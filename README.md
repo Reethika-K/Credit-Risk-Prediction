@@ -45,8 +45,7 @@ Home-Credit/
 - **bureau_final.csv** - Output of bureau_preprocessing_final.ipynb 
 - **pos_inst_cc_final.csv** - Output of pos_inst_cc_preprocessing_final.ipynb
 - **prev_final.csv** - Output of prev_appl_preprocessing_final.ipynb
-<br>
-**Note:** Note: Due to file size limitations, this repository includes only the model-related files. The original project contained additional raw data and intermediate processing files which are not uploaded.
+- **Note:** Note: Due to file size limitations, this repository includes only the model-related files. The original project contained additional raw data and intermediate processing files which are not uploaded.
 <br>
 ## Data Preprocessing 
 - Replaced anomalous values (e.g., DAYS_EMPLOYED = 365243)
